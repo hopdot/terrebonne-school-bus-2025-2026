@@ -1,0 +1,17 @@
+student_id,full_name,school,zone,assigned_bus_number,assigned_route,assigned_stop,status
+S1001,Ava Boudreaux,Legion Park Elementary,East Houma,TPB-101,Houma East,East Houma area stop,active
+S1002,Liam Trahan,Legion Park Elementary,Bayou Cane,TPB-101,Houma East,Bayou Cane area stop,active
+S1003,Noah Guidry,Southdown Elementary,Southdown,TPB-102,Houma West,Southdown area stop,active
+S1004,Emma Pitre,Oaklawn Jr High,West Houma,TPB-102,Houma West,West Houma area stop,active
+S1005,Olivia Naquin,Broadmoor Elementary,Gray,TPB-103,Bayou Blue,Gray area stop,active
+S1006,Ethan Melancon,Oaklawn Jr High,Bayou Blue,TPB-103,Bayou Blue,Bayou Blue area stop,active
+S1007,Sophia Robichaux,East Park Elementary,Schriever,TPB-104,Schriever,Schriever area stop,active
+S1008,Mason Billiot,Oaklawn Jr High,Chacahoula,TPB-104,Schriever,Chacahoula area stop,active
+S1009,Isabella Chauvin,Elysian Fields Elementary,North Thibodaux,TPB-105,Thibodaux North,North Thibodaux area stop,active
+S1010,Lucas Comeaux,Elysian Fields Elementary,Choctaw,TPB-105,Thibodaux North,Choctaw area stop,active
+S1011,Chloe Prejean,Thibodaux Middle,Napoleonville Rd,TPB-106,Thibodaux South,Napoleonville Rd area stop,active
+S1012,Owen Landry,South Thibodaux Elementary,South Thibodaux,TPB-106,Thibodaux South,South Thibodaux area stop,active
+S1013,Harper Duplantis,Montegut School,Montegut,TPB-107,Montegut,Montegut area stop,active
+S1014,Jack Authement,Pointe-aux-Chenes School,Pointe-aux-Chenes,TPB-107,Montegut,Pointe-aux-Chenes area stop,active
+S1015,Ella Verret,Chauvin Elementary,Chauvin,TPB-108,Chauvin,Chauvin area stop,active
+S1016,Logan Foret,Chauvin Elementary,Cocodrie,TPB-108,Chauvin,Cocodrie area stop,active

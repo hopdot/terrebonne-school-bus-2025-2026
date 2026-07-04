@@ -1,0 +1,17 @@
+student_id,full_name,grade,school,home_address,zone,guardian_name,guardian_phone
+S1001,Ava Boudreaux,3,Legion Park Elementary,"210 Grand Caillou Rd, Houma LA",East Houma,Michelle Boudreaux,985-555-0101
+S1002,Liam Trahan,5,Legion Park Elementary,"318 Bayou Gardens Blvd, Houma LA",Bayou Cane,Rachel Trahan,985-555-0102
+S1003,Noah Guidry,1,Southdown Elementary,"77 Enterprise Dr, Houma LA",Southdown,Tyler Guidry,985-555-0103
+S1004,Emma Pitre,7,Oaklawn Jr High,"512 Hollywood Rd, Houma LA",West Houma,Susan Pitre,985-555-0104
+S1005,Olivia Naquin,4,Broadmoor Elementary,"44 Grand Bois Rd, Gray LA",Gray,Chris Naquin,985-555-0105
+S1006,Ethan Melancon,6,Oaklawn Jr High,"902 Bayou Blue Rd, Houma LA",Bayou Blue,Karen Melancon,985-555-0106
+S1007,Sophia Robichaux,2,East Park Elementary,"15 Church St, Schriever LA",Schriever,Dale Robichaux,985-555-0107
+S1008,Mason Billiot,8,Oaklawn Jr High,"223 Chacahoula Rd, Gray LA",Chacahoula,Traci Billiot,985-555-0108
+S1009,Isabella Chauvin,5,Elysian Fields Elementary,"310 Canal Blvd, Thibodaux LA",North Thibodaux,Kevin Chauvin,985-555-0109
+S1010,Lucas Comeaux,3,Elysian Fields Elementary,"88 Choctaw Rd, Thibodaux LA",Choctaw,Nicole Comeaux,985-555-0110
+S1011,Chloe Prejean,7,Thibodaux Middle,"401 Napoleonville Rd, Thibodaux LA",Napoleonville Rd,Brian Prejean,985-555-0111
+S1012,Owen Landry,1,South Thibodaux Elementary,"66 St. Charles St, Thibodaux LA",South Thibodaux,Amanda Landry,985-555-0112
+S1013,Harper Duplantis,6,Montegut School,"120 Hwy 55, Montegut LA",Montegut,Todd Duplantis,985-555-0113
+S1014,Jack Authement,4,Pointe-aux-Chenes School,"5 Island Rd, Pointe-aux-Chenes LA",Pointe-aux-Chenes,Sarah Authement,985-555-0114
+S1015,Ella Verret,2,Chauvin Elementary,"33 Bayouside Dr, Chauvin LA",Chauvin,Mark Verret,985-555-0115
+S1016,Logan Foret,8,Chauvin Elementary,"14 Cocodrie Hwy, Cocodrie LA",Cocodrie,Jenny Foret,985-555-0116
