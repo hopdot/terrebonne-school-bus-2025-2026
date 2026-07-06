@@ -1,17 +1,17 @@
 student_id,full_name,grade,school,home_address,zone,assigned_bus_number,assigned_route,assigned_stop,guardian_name,guardian_phone,status
-S1001,Ava Boudreaux,3,Legion Park Elementary,"210 Grand Caillou Rd, Houma LA",East Houma,TPB-101,Houma East,East Houma area stop,Michelle Boudreaux,985-555-0101,active
-S1002,Liam Trahan,5,Legion Park Elementary,"318 Bayou Gardens Blvd, Houma LA",Bayou Cane,TPB-101,Houma East,Bayou Cane area stop,Rachel Trahan,985-555-0102,active
-S1003,Noah Guidry,1,Southdown Elementary,"77 Enterprise Dr, Houma LA",Southdown,TPB-102,Houma West,Southdown area stop,Tyler Guidry,985-555-0103,active
-S1004,Emma Pitre,7,Oaklawn Jr High,"512 Hollywood Rd, Houma LA",West Houma,TPB-102,Houma West,West Houma area stop,Susan Pitre,985-555-0104,active
-S1005,Olivia Naquin,4,Broadmoor Elementary,"44 Grand Bois Rd, Gray LA",Gray,TPB-103,Bayou Blue,Gray area stop,Chris Naquin,985-555-0105,active
-S1006,Ethan Melancon,6,Oaklawn Jr High,"902 Bayou Blue Rd, Houma LA",Bayou Blue,TPB-103,Bayou Blue,Bayou Blue area stop,Karen Melancon,985-555-0106,active
-S1007,Sophia Robichaux,2,East Park Elementary,"15 Church St, Schriever LA",Schriever,TPB-104,Schriever,Schriever area stop,Dale Robichaux,985-555-0107,active
-S1008,Mason Billiot,8,Oaklawn Jr High,"223 Chacahoula Rd, Gray LA",Chacahoula,TPB-104,Schriever,Chacahoula area stop,Traci Billiot,985-555-0108,active
-S1009,Isabella Chauvin,5,Elysian Fields Elementary,"310 Canal Blvd, Thibodaux LA",North Thibodaux,TPB-105,Thibodaux North,North Thibodaux area stop,Kevin Chauvin,985-555-0109,active
-S1010,Lucas Comeaux,3,Elysian Fields Elementary,"88 Choctaw Rd, Thibodaux LA",Choctaw,TPB-105,Thibodaux North,Choctaw area stop,Nicole Comeaux,985-555-0110,active
-S1011,Chloe Prejean,7,Thibodaux Middle,"401 Napoleonville Rd, Thibodaux LA",Napoleonville Rd,TPB-106,Thibodaux South,Napoleonville Rd area stop,Brian Prejean,985-555-0111,active
-S1012,Owen Landry,1,South Thibodaux Elementary,"66 St. Charles St, Thibodaux LA",South Thibodaux,TPB-106,Thibodaux South,South Thibodaux area stop,Amanda Landry,985-555-0112,active
-S1013,Harper Duplantis,6,Montegut School,"120 Hwy 55, Montegut LA",Montegut,TPB-107,Montegut,Montegut area stop,Todd Duplantis,985-555-0113,active
-S1014,Jack Authement,4,Pointe-aux-Chenes School,"5 Island Rd, Pointe-aux-Chenes LA",Pointe-aux-Chenes,TPB-107,Montegut,Pointe-aux-Chenes area stop,Sarah Authement,985-555-0114,active
-S1015,Ella Verret,2,Chauvin Elementary,"33 Bayouside Dr, Chauvin LA",Chauvin,TPB-108,Chauvin,Chauvin area stop,Mark Verret,985-555-0115,active
-S1016,Logan Foret,8,Chauvin Elementary,"14 Cocodrie Hwy, Cocodrie LA",Cocodrie,TPB-108,Chauvin,Cocodrie area stop,Jenny Foret,985-555-0116,active
+S1001,Ava Boudreaux,3,Legion Park Elementary,"210 Grand Caillou Rd, Houma LA",Zone A,TPB-101,Houma East,East Houma area stop,Michelle Boudreaux,985-555-0101,active
+S1002,Liam Trahan,5,Legion Park Elementary,"318 Bayou Gardens Blvd, Houma LA",Zone D,TPB-101,Houma East,Bayou Cane area stop,Rachel Trahan,985-555-0102,active
+S1003,Noah Guidry,1,Southdown Elementary,"77 Enterprise Dr, Houma LA",Zone A,TPB-102,Houma West,Southdown area stop,Tyler Guidry,985-555-0103,active
+S1004,Emma Pitre,7,Oaklawn Jr High,"512 Hollywood Rd, Houma LA",Zone B,TPB-102,Houma West,West Houma area stop,Susan Pitre,985-555-0104,active
+S1005,Olivia Naquin,4,Broadmoor Elementary,"44 Grand Bois Rd, Gray LA",Zone B,TPB-103,Bayou Blue,Gray area stop,Chris Naquin,985-555-0105,active
+S1006,Ethan Melancon,6,Oaklawn Jr High,"902 Bayou Blue Rd, Houma LA",Zone C,TPB-103,Bayou Blue,Bayou Blue area stop,Karen Melancon,985-555-0106,active
+S1007,Sophia Robichaux,2,East Park Elementary,"15 Church St, Schriever LA",Zone F,TPB-104,Schriever,Schriever area stop,Dale Robichaux,985-555-0107,active
+S1008,Mason Billiot,8,Oaklawn Jr High,"223 Chacahoula Rd, Gray LA",Zone H,TPB-104,Schriever,Chacahoula area stop,Traci Billiot,985-555-0108,active
+S1009,Isabella Chauvin,5,Elysian Fields Elementary,"310 Canal Blvd, Thibodaux LA",Zone F,TPB-105,Thibodaux North,North Thibodaux area stop,Kevin Chauvin,985-555-0109,active
+S1010,Lucas Comeaux,3,Elysian Fields Elementary,"88 Choctaw Rd, Thibodaux LA",Zone C,TPB-105,Thibodaux North,Choctaw area stop,Nicole Comeaux,985-555-0110,active
+S1011,Chloe Prejean,7,Thibodaux Middle,"401 Napoleonville Rd, Thibodaux LA",Zone E,TPB-106,Thibodaux South,Napoleonville Rd area stop,Brian Prejean,985-555-0111,active
+S1012,Owen Landry,1,South Thibodaux Elementary,"66 St. Charles St, Thibodaux LA",Zone E,TPB-106,Thibodaux South,South Thibodaux area stop,Amanda Landry,985-555-0112,active
+S1013,Harper Duplantis,6,Montegut School,"120 Hwy 55, Montegut LA",Zone G,TPB-107,Montegut,Montegut area stop,Todd Duplantis,985-555-0113,active
+S1014,Jack Authement,4,Pointe-aux-Chenes School,"5 Island Rd, Pointe-aux-Chenes LA",Zone G,TPB-107,Montegut,Pointe-aux-Chenes area stop,Sarah Authement,985-555-0114,active
+S1015,Ella Verret,2,Chauvin Elementary,"33 Bayouside Dr, Chauvin LA",Zone H,TPB-108,Chauvin,Chauvin area stop,Mark Verret,985-555-0115,active
+S1016,Logan Foret,8,Chauvin Elementary,"14 Cocodrie Hwy, Cocodrie LA",Zone H,TPB-108,Chauvin,Cocodrie area stop,Jenny Foret,985-555-0116,active
