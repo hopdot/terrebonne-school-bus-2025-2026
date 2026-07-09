@@ -29,3 +29,7 @@ timestamp_utc,screen,message
 2026-07-08T14:53:53.967588,WRONG BUS,"Olivia Naquin is assigned to TPB-102 (Houma West), not this bus."
 2026-07-08 09:53:15,S1099,UNKNOWN ID,TPB-101,Card not recognized. Flagged for office follow-up.
 2026-07-08 09:53:22,S1005,WRONG BUS,TPB-108,Olivia Naquin assigned to TPB-102 (Houma West)
+2026-07-09T02:55:34.668635,UNKNOWN ID,Card S1099 not recognized. Flagged for office follow-up.
+2026-07-09T02:55:34.668684,WRONG BUS,"Olivia Naquin is assigned to TPB-102 (Houma West), not this bus."
+2026-07-09 02:55:41, UNKNOWN ID, S1099, Not recognized - flagged for office follow-up
+2026-07-09 02:55:41, WRONG BUS, Olivia Naquin, Assigned TPB-102 (Houma West)
