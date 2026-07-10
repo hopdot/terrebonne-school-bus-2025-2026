@@ -41,3 +41,9 @@ timestamp_utc,screen,message
 2026-07-10T02:53:57.391087,WRONG BUS,"Olivia Naquin is assigned to TPB-102 (Houma West), not this bus."
 [UNKNOWN ID] Card S1099 not recognized — flagged for office follow-up
 [WRONG BUS] Olivia Naquin scanned onto wrong bus, assigned to TPB-102 (Houma West)
+2026-07-10T14:54:06.255631,WRONG BUS,"Chloe Prejean is assigned to TPB-106 (Thibodaux South), not this bus."
+2026-07-10T14:54:06.255649,UNKNOWN ID,Card S1099 not recognized. Flagged for office follow-up.
+2026-07-10T14:54:06.255652,WRONG BUS,"Mason Billiot is assigned to TPB-104 (Schriever), not this bus."
+2026-07-10 09:53:00,S1011,TPB-105,WRONG_BUS,Chloe Prejean is assigned to TPB-106 (Thibodaux South), not this bus.
+2026-07-10 09:53:00,S1099,UNKNOWN,UNKNOWN_ID,Card S1099 not recognized. Flagged for office follow-up.
+2026-07-10 09:53:00,S1008,TPB-108,WRONG_BUS,Mason Billiot is assigned to TPB-104 (Schriever), not this bus.
