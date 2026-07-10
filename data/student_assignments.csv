@@ -1,17 +1,17 @@
-student_id,full_name,school,zone,assigned_bus_number,assigned_route,assigned_stop,status
-S1001,Ava Boudreaux,Legion Park Elementary,Zone A,TPB-101,Houma East,Zone A area stop,active
-S1002,Liam Trahan,Legion Park Elementary,Zone D,TPB-104,Schriever,Zone D area stop,active
-S1003,Noah Guidry,Southdown Elementary,Zone A,TPB-101,Houma East,Zone A area stop,active
-S1004,Emma Pitre,Oaklawn Jr High,Zone B,TPB-102,Houma West,Zone B area stop,active
-S1005,Olivia Naquin,Broadmoor Elementary,Zone B,TPB-102,Houma West,Zone B area stop,active
-S1006,Ethan Melancon,Oaklawn Jr High,Zone C,TPB-103,Bayou Blue,Zone C area stop,active
-S1007,Sophia Robichaux,East Park Elementary,Zone F,TPB-106,Thibodaux North,Zone F area stop,active
-S1008,Mason Billiot,Oaklawn Jr High,Zone H,TPB-108,Chauvin,Zone H area stop,active
-S1009,Isabella Chauvin,Elysian Fields Elementary,Zone F,TPB-106,Thibodaux North,Zone F area stop,active
-S1010,Lucas Comeaux,Elysian Fields Elementary,Zone C,TPB-103,Bayou Blue,Zone C area stop,active
-S1011,Chloe Prejean,Thibodaux Middle,Zone E,TPB-105,Thibodaux South,Zone E area stop,active
-S1012,Owen Landry,South Thibodaux Elementary,Zone E,TPB-105,Thibodaux South,Zone E area stop,active
-S1013,Harper Duplantis,Montegut School,Zone G,TPB-107,Montegut,Zone G area stop,active
-S1014,Jack Authement,Pointe-aux-Chenes School,Zone G,TPB-107,Montegut,Zone G area stop,active
-S1015,Ella Verret,Chauvin Elementary,Zone H,TPB-108,Chauvin,Zone H area stop,active
-S1016,Logan Foret,Chauvin Elementary,Zone H,TPB-108,Chauvin,Zone H area stop,active
+student_id,full_name,assigned_bus_number,assigned_route,zone,status
+S1001,Ava Boudreaux,TPB-101,Houma East,East Houma,active
+S1002,Liam Trahan,TPB-101,Houma East,Bayou Cane,active
+S1003,Noah Guidry,TPB-102,Houma West,Southdown,active
+S1004,Emma Pitre,TPB-102,Houma West,West Houma,active
+S1005,Olivia Naquin,TPB-103,Bayou Blue,Gray,active
+S1006,Ethan Melancon,TPB-103,Bayou Blue,Bayou Blue,active
+S1007,Sophia Robichaux,TPB-104,Schriever,Schriever,active
+S1008,Mason Billiot,TPB-104,Schriever,Chacahoula,active
+S1009,Isabella Chauvin,TPB-105,Thibodaux North,North Thibodaux,active
+S1010,Lucas Comeaux,TPB-105,Thibodaux North,Choctaw,active
+S1011,Chloe Prejean,TPB-106,Thibodaux South,Napoleonville Rd,active
+S1012,Owen Landry,TPB-106,Thibodaux South,South Thibodaux,active
+S1013,Harper Duplantis,TPB-107,Montegut,Montegut,active
+S1014,Jack Authement,TPB-107,Montegut,Pointe-aux-Chenes,active
+S1015,Ella Verret,TPB-108,Chauvin,Chauvin,active
+S1016,Logan Foret,TPB-108,Chauvin,Cocodrie,active
