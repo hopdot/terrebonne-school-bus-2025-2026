@@ -53,3 +53,6 @@ timestamp_utc,screen,message
 2026-07-11 02:53:59 UTC, WRONG BUS, Chloe Prejean, TPB-105, should be TPB-106
 2026-07-11 02:53:59 UTC, UNKNOWN ID, Card S1099, unrecognized, flagged for office
 2026-07-11 02:53:59 UTC, WRONG BUS, Mason Billiot, TPB-108, should be TPB-104
+2026-07-11T14:53:55.068301,WRONG BUS,"Chloe Prejean is assigned to TPB-106 (Thibodaux South), not this bus."
+2026-07-11T14:53:55.068345,UNKNOWN ID,Card S1099 not recognized. Flagged for office follow-up.
+2026-07-11T14:53:55.068349,WRONG BUS,"Mason Billiot is assigned to TPB-104 (Schriever), not this bus."
