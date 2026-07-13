@@ -1,0 +1,11 @@
+student_id,full_name,zone,assigned_bus_number,assigned_route
+S1001,Ava Boudreaux,East Houma,TPB-101,Houma East
+S1002,Liam Trahan,Bayou Cane,TPB-101,Houma East
+S1004,Emma Pitre,West Houma,TPB-102,Houma West
+S1005,Olivia Naquin,Gray,TPB-103,Bayou Blue
+S1006,Ethan Melancon,Bayou Blue,TPB-103,Bayou Blue
+S1008,Mason Billiot,Chacahoula,TPB-104,Schriever
+S1010,Lucas Comeaux,Choctaw,TPB-105,Thibodaux North
+S1012,Owen Landry,South Thibodaux,TPB-106,Thibodaux South
+S1014,Jack Authement,Pointe-aux-Chenes,TPB-107,Montegut
+S1015,Ella Verret,Chauvin,TPB-108,Chauvin
