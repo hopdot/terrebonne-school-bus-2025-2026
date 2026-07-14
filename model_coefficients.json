@@ -1,16 +1,25 @@
 {
-  "model_name": "hcoinx-driving BusPredictor",
-  "trained_at": "2026-07-05T07:02:00Z",
+  "model_type": "linear_arrival_time_predictor",
+  "trained_date": "2026-07-14T07:02:31.833406",
   "training_samples": 100,
-  "intercept": -0.2305,
   "coefficients": {
-    "distance": 3.1894,
-    "traffic": 0.5435
+    "intercept": -1.3896183280069696,
+    "distance": 3.204859925182378,
+    "traffic": 0.7222754491017964
   },
-  "r2_score": 0.9916,
-  "test_prediction": {
-    "distance_km": 5.0,
-    "traffic_level": 8,
-    "eta_minutes": 20.1
+  "statistics": {
+    "mean_arrival_minutes": 26.277000000000008,
+    "distance_range": [
+      0.59,
+      14.59
+    ],
+    "traffic_range": [
+      1.0,
+      10.0
+    ],
+    "arrival_range": [
+      2.2,
+      51.5
+    ]
   }
 }
