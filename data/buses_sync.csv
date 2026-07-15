@@ -1,9 +1,9 @@
-bus_number,driver_name,route_name,route_number,capacity
-TPB-101,Marcus Guidry,Houma East,RT-1,66
-TPB-102,Angela Trahan,Houma West,RT-2,66
-TPB-103,Kevin Boudreaux,Bayou Blue,RT-3,72
-TPB-104,Denise Robichaux,Schriever,RT-4,54
-TPB-105,Larry Melancon,Thibodaux North,RT-5,66
-TPB-106,Cheryl Pitre,Thibodaux South,RT-6,66
-TPB-107,Wade Naquin,Montegut,RT-7,48
-TPB-108,Renee Billiot,Chauvin,RT-8,48
+bus_number,driver_name,route_name,route_number,ride_id,status,current_stop,eta_minutes,capacity,passengers_onboard
+TPB-101,Marcus Guidry,Houma East,RT-1,,active,,0,66,0
+TPB-102,Angela Trahan,Houma West,RT-2,,active,,0,66,0
+TPB-103,Kevin Boudreaux,Bayou Blue,RT-3,,active,,0,72,0
+TPB-104,Denise Robichaux,Schriever,RT-4,,active,,0,54,0
+TPB-105,Larry Melancon,Thibodaux North,RT-5,,active,,0,66,0
+TPB-106,Cheryl Pitre,Thibodaux South,RT-6,,active,,0,66,0
+TPB-107,Wade Naquin,Montegut,RT-7,,active,,0,48,0
+TPB-108,Renee Billiot,Chauvin,RT-8,,active,,0,48,0
