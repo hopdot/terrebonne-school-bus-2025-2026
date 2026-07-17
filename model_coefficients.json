@@ -3,6 +3,5 @@
   "coef_traffic": 0.5435,
   "intercept": -0.2305,
   "samples": 100,
-  "trained_at": "2026-07-16T07:02:47.818352",
-  "data_source": "bus_history_large.csv"
+  "retrained_at": "2026-07-17T02:02:00Z"
 }
