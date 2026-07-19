@@ -1,17 +1,17 @@
-student_id,full_name,zone,assigned_bus_number,assigned_route,assigned_stop
-S1001,Ava Boudreaux,East Houma,TPB-101,Houma East,East Houma area stop
-S1002,Liam Trahan,Bayou Cane,TPB-101,Houma East,Bayou Cane area stop
-S1003,Noah Guidry,Southdown,TPB-102,Houma West,Southdown area stop
-S1004,Emma Pitre,West Houma,TPB-102,Houma West,West Houma area stop
-S1005,Olivia Naquin,Gray,TPB-103,Bayou Blue,Gray area stop
-S1006,Ethan Melancon,Bayou Blue,TPB-103,Bayou Blue,Bayou Blue area stop
-S1007,Sophia Robichaux,Schriever,TPB-104,Schriever,Schriever area stop
-S1008,Mason Billiot,Chacahoula,TPB-104,Schriever,Chacahoula area stop
-S1009,Isabella Chauvin,North Thibodaux,TPB-105,Thibodaux North,North Thibodaux area stop
-S1010,Lucas Comeaux,Choctaw,TPB-105,Thibodaux North,Choctaw area stop
-S1011,Chloe Prejean,Napoleonville Rd,TPB-106,Thibodaux South,Napoleonville Rd area stop
-S1012,Owen Landry,South Thibodaux,TPB-106,Thibodaux South,South Thibodaux area stop
-S1013,Harper Duplantis,Montegut,TPB-107,Montegut,Montegut area stop
-S1014,Jack Authement,Pointe-aux-Chenes,TPB-107,Montegut,Pointe-aux-Chenes area stop
-S1015,Ella Verret,Chauvin,TPB-108,Chauvin,Chauvin area stop
-S1016,Logan Foret,Cocodrie,TPB-108,Chauvin,Cocodrie area stop
+student_id,full_name,grade,zone,assigned_bus_number
+S1001,Ava Boudreaux,3,East Houma,TPB-101
+S1002,Liam Trahan,5,Bayou Cane,TPB-101
+S1003,Noah Guidry,1,Southdown,TPB-102
+S1004,Emma Pitre,7,West Houma,TPB-102
+S1005,Olivia Naquin,4,Gray,TPB-103
+S1006,Ethan Melancon,6,Bayou Blue,TPB-103
+S1007,Sophia Robichaux,2,Schriever,TPB-104
+S1008,Mason Billiot,8,Chacahoula,TPB-104
+S1009,Isabella Chauvin,5,North Thibodaux,TPB-105
+S1010,Lucas Comeaux,3,Choctaw,TPB-105
+S1011,Chloe Prejean,7,Napoleonville Rd,TPB-106
+S1012,Owen Landry,1,South Thibodaux,TPB-106
+S1013,Harper Duplantis,6,Montegut,TPB-107
+S1014,Jack Authement,4,Pointe-aux-Chenes,TPB-107
+S1015,Ella Verret,2,Chauvin,TPB-108
+S1016,Logan Foret,8,Cocodrie,TPB-108
