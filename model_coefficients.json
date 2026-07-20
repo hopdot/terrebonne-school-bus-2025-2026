@@ -2,6 +2,7 @@
   "coef_distance": 3.1894,
   "coef_traffic": 0.5435,
   "intercept": -0.2305,
-  "timestamp": "2026-07-19T07:02:27.959620",
-  "samples": 100
+  "samples": 100,
+  "trained_on": "bus_history_large.csv",
+  "timestamp": "2026-07-20T02:02:00Z"
 }
