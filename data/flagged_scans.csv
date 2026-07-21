@@ -121,3 +121,6 @@ timestamp,student_id,student_name,assigned_bus,actual_bus,alert_type
 2026-07-20,09:53,WRONG_BUS,Chloe Prejean,S1011,TPB-105,TPB-106,Thibodaux South
 2026-07-20,09:53,UNKNOWN_ID,Unknown,S1099,Unknown,Unknown,Card not in system
 2026-07-20,09:53,WRONG_BUS,Mason Billiot,S1008,TPB-108,TPB-104,Schriever
+2026-07-21T02:53:56.288867,WRONG BUS,"Chloe Prejean is assigned to TPB-106 (Thibodaux South), not this bus."
+2026-07-21T02:53:56.288917,UNKNOWN ID,Card S1099 not recognized. Flagged for office follow-up.
+2026-07-21T02:53:56.288921,WRONG BUS,"Mason Billiot is assigned to TPB-104 (Schriever), not this bus."
