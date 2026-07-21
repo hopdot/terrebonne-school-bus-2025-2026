@@ -4,7 +4,7 @@ import sys
 import json
 import os
 
-csv_path = sys.argv[1] if len(sys.argv) > 1 else "bus_history.csv"
+csv_path = sys.argv[1] if len(sys.argv) > 1 else "bus_history_large.csv"
 
 if not os.path.exists(csv_path):
     print(json.dumps({"error": f"CSV file not found: {csv_path}"}))
