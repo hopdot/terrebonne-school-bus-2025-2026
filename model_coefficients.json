@@ -1,8 +1,9 @@
 {
+  "timestamp": "2026-07-23T02:01:00",
+  "samples": 100,
   "coef_distance": 3.1894,
   "coef_traffic": 0.5435,
   "intercept": -0.2305,
-  "samples": 100,
-  "trained_on": "bus_history_large.csv",
-  "timestamp": "2026-07-22T07:03:44.795790Z"
+  "model_type": "LinearRegression",
+  "features": ["distance", "traffic"]
 }
