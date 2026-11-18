@@ -47,3 +47,55 @@ python3 src/assign_bus.py         # reassign all students from data/students.csv
 python3 src/rfid_scanner.py S1042 # simulate a boarding scan for student ID S1042
 python3 src/nightly_update.py     # full nightly refresh
 ```
+
+## Student ID cards with QR screening
+
+`src/make_id_cards.py` prints one CR80 card per student (300 dpi PNG, plus a
+one-card-per-page print sheet) and writes `data/card_registry.csv`.
+
+Each card carries four things and nothing more:
+
+- **RFID card number** — the 8 hex digit UID the bus reader matches on (`0xB920B58A`)
+- **Screening QR** — a signed credential, `TPSD1|<student_id>|<uid>|<sig>`
+- **Bus pill** — assigned bus, route name, route number
+- **Identity block** — name, school, grade, zone
+
+Home address and guardian phone are deliberately never rendered on the card.
+
+The signature is HMAC-SHA256 over the student id and card UID, truncated to 12
+hex characters. A scanner therefore rejects a hand-written, copied, or altered
+code without any network call. The key comes from the `TPSD_QR_SECRET`
+environment variable; **the built-in development key must be replaced before
+production use**, since anyone holding it can mint cards:
+
+```bash
+export TPSD_QR_SECRET="$(python3 -c 'import secrets;print(secrets.token_urlsafe(32))')"
+python3 src/make_id_cards.py       # reprint cards under the new key
+```
+
+Changing the key invalidates every card already printed, so rotate it between
+school years, not mid-term.
+
+### Screening
+
+```bash
+# scan the printed QR (photo, gate camera frame, or the PNG itself)
+python3 src/qr_screen.py --image cards/S1001_ava-boudreaux.png --bus TPB-101
+
+# type or paste the payload from a handheld scanner
+python3 src/qr_screen.py --payload "TPSD1|S1001|B920B58A|e762167f620f" --bus TPB-101
+
+# bus reader tapped the RFID number instead
+python3 src/qr_screen.py --rfid 0xB920B58A
+```
+
+Results: `CORRECT BUS`, `WRONG BUS` (names the correct bus), `PENDING`,
+`INVALID CARD` (bad signature), `UNKNOWN CARD` (valid signature, not enrolled),
+`LOOKUP` (no bus supplied, reports the expected bus).
+
+Every scan appends to `data/qr_screening_log.csv` with a UTC timestamp, so a
+gate or office can audit who scanned what and when.
+
+`cards/` and `data/card_registry.csv` are gitignored: they contain student
+names and live card credentials and should only be stored in a private,
+access-controlled location.

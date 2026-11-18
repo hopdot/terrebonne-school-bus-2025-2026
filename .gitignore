@@ -1,3 +1,8 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# student ID card output and signed card credentials (student PII)
+cards/
+data/card_registry.csv
+data/qr_screening_log.csv
